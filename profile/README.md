@@ -5,7 +5,7 @@
 
 ---
 
-Personalize your Fortnite character with the **Fortnite Skin Changer** — an offline cosmetic swap tool built for safety, speed, and complete control over your in-game appearance. Apply new styles, test legacy outfits, and customize your look without modifying game data.
+Personalize your Fortnite character with the **Fortnite Skin Changer** — cosmetic swap tool built for safety, speed, and complete control over your in-game appearance. Apply new styles, test legacy outfits, and customize your look without modifying game data.
 
 ---
 
